@@ -1,14 +1,14 @@
-// CALL BACKS AND ASYNCHRONOUS CODE
-const reminder = function () {
-    window.alert('10 seconds passed');
-}
+// // CALL BACKS AND ASYNCHRONOUS CODE
+// const reminder = function () {
+//     window.alert('10 seconds passed');
+// }
 
-setTimeout(reminder, 10000);
+// setTimeout(reminder, 10000);
 
-window.alert('Reminder will run first or me?');
+// window.alert('Reminder will run first or me?');
 
 
-// // FUNCTION WHICH CAN TAKE LONG TIME TO EXECUTE
+// // // FUNCTION WHICH CAN TAKE LONG TIME TO EXECUTE
 
 // const longTask = function () {
 //     for (let i = 0; i < 10000; i++) {
@@ -17,5 +17,9 @@ window.alert('Reminder will run first or me?');
 //     }
 // }
 
-// longTask();
-// console.log('Done');
+// // longTask();
+// // console.log('Done');
+
+
+// ---------------  YOU CAN START CODING FROM HERE  ------------------------------------
+
