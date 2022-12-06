@@ -53,3 +53,19 @@ while (i < 10) {
     i++;
 }
 
+
+// -------------------- OBJECTS ------------------------------------
+
+const person = {
+    name: 'John',
+    age: 30,
+    dob: '01/01/1990',
+    address: {
+        street: '123 Main St',
+        city: 'Boston',
+        state: 'MA'
+    },
+};
+
+console.log(person.name);
+console.log(person.address.city);
